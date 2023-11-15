@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @christhesoul
 - 👀 I’m interested in Ruby, Rails, songwriting, and how things work.
-- 🌱 I’m currently learning a bit of React.
 - 💞️ I’m looking to collaborate on anything fun and Ruby-ish.
 - 📫 Email me with my Github handle at gmail.com.
 <!---
